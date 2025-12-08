@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Flores</h1>
 <h3 align="center">A passionate Software Developer from México</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dani19flores&label=Profile%20views&color=0e75b6&style=flat" alt="dani19flores" />
-</p>
-
 ---
 
 ### 🏆 Achievements
@@ -84,9 +80,12 @@
 ---
 
 ## 📊 Stats
+<h3 align="left">Activity:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dani19flores&show_icons=true&layout=compact" /></p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dani19flores&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dani19flores&show_icons=true" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dani19flores" /></p>
+<p align="center">
+  <a href="https://github.com/dani19flores">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dani19flores&&theme=tokyonight" alt="dani19flores" />
+  </a>
+</p>
