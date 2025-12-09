@@ -9,6 +9,18 @@
 </p>
 
 ---
+## 🚀 Proyectos Principales
+
+- 🎵 **Music Library** — Sistema para gestión musical.  
+  🔗 https://github.com/dani19flores/Music_library  
+
+- 📊 **Dashboard & Report Builder** — Sitio web de dashboard y reportes.  
+  🔗 https://github.com/dani19flores/Dashbaord_and_Report
+
+- 🛒 **Ecomers Proyect** — Tienda e-commerce responsiva con carrito y menú lateral.  
+  🔗 https://github.com/dani19flores/ecomers_proyect
+
+---
 
 ### 🤝 Connect with me
 <p align="left">
